@@ -21,9 +21,9 @@
 5. Install git and prereqs for virtual environment:
 
 	```
-	sudo apt git
+	sudo apt install git
 	sudo apt install build-essential python3-dev python3-setuptools python3-tk
-	sudo apt python3-pip
+	sudo apt install python3-pip
 	```
 
 6. Install [python virtual environment](http://docs.python-guide.org/en/latest/dev/virtualenvs/#lower-level-virtualenv)
@@ -82,7 +82,7 @@
 	N = 1000
 	x = np.linspace(0.0, 10.0, N)
 	y = np.random.rand(N)
-	plt.title('Uniform Distriibution')
+	plt.title('Uniform Distribution')
 	plt.scatter(x,y)
 	plt.show()
 	```
