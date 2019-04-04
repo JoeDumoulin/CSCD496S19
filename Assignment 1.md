@@ -13,7 +13,7 @@ a.  What is mu for the coins?
 
 b.  repeat the experiment a great number of times (e.g., 100,000 times).  collect nu_1, nu_min, nu_rand for each experiment.  Plot histograms of nu_1, nu_min, nu_rand to see what the distribution looks like.  Note that the coin for c_rand and c_min will be probably different for each run.
 
-c. plot the hoeffding bound 2*exp(-2*epsilon^2*N)along with the P(|nu-mu| > epsilon) for different values of epsilon.  N is the number of training examples (10 in this case), and number of hypotheses is M = 1000.
+c. plot the hoeffding bound 2 * exp(-2 * epsilon^2 * N) along with the P(| nu-mu | > epsilon) for different values of epsilon.  N is the number of training examples (10 in this case), and number of hypotheses is M = 1000.
 
 d. Which coins obey Hoeffding bound?  which do not?  why?
 
