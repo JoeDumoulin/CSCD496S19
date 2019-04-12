@@ -50,7 +50,7 @@ An approximate sequence of events for this course is outlined below:
 <tr><td>04/02</td> <td>Introduction, Resources, Mathematics Review, Python basics and installation</td><td>Reading: Read Chapter 1, Learning From Data and Chapter 1 & 2, Chollet.</td><td></td></tr>
 <tr><td>04/04</td> <td>What is AI/Machine Learning?</td> <td>Assignment 1: Complete Exercise 1.10 LFD, as a jupyter notebook.</td><td></td></tr>
 <tr><td>04/09</td> <td>Two methods of Learning: Linear and KNN Classification</td> <td>Assignment 2: Implement Linear and KNN and perform bias/variance analysis using provided data. Reading: LFD chapter 3</td><td>Selection of Project Teams due</td></tr>
-<tr><td>04/11</td> <td>Creating and Using Example data, Evaluating models with training data</td><td>Assignment I Due. Reading: LFD 2.3</td><td></td></tr>
+<tr><td>04/11</td> <td>Creating and Using Example data, Evaluating models with test data</td><td>Assignment I Due. Reading: LFD 2.3</td><td></td></tr>
 <tr><td>04/16</td> <td>Machine Learning Landscape I, Bias & Variance tradeoff</td><td>Reading: LFD Chapter 4, optionally LFD echapter 6</td><td></td></tr>
 <tr><td>04/18</td> <td>Machine Learning Landscape II, Loss & Accuracy</td><td></td><td></td></tr>
 <tr><td>04/23</td><td>Machine Learning Landscape III, Regularization</td><td>Assignment 2 due.  Reading: Chollet, Chapter 3 Assignment 3: Implement the neural networks in Chollet, Ch 3.4 and 3.5. Graph training and test loss.</td><td></td></tr>
