@@ -15,7 +15,7 @@ Once these initial steps are complete, you can start creating the deliverables o
 
 ### Deliverables:
 
-* A project proposal containing (Due: week 5)
+* A project proposal containing (Due: week 6)
   * Description of the project
   * Description of the data source
   * Related work
