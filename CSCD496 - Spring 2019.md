@@ -55,10 +55,10 @@ An approximate sequence of events for this course is outlined below:
 <tr><td>04/18</td> <td>Machine Learning Landscape II, Loss & Accuracy</td><td></td><td></td></tr>
 <tr><td>04/23</td><td>Machine Learning Landscape III, Regularization</td><td>Assignment 2 due.  Reading: Chollet, Chapter 3 Assignment 3: Implement the neural networks in Chollet, Ch 3.4 and 3.5. Graph training and test loss.</td><td></td></tr>
 <tr><td>04/25</td><td>Linear Supervised Learning in Detail</td><td></td><td>Final Project Topics due</td></tr>
-<tr><td>04/30</td><td>Linear Classification Learning again</td><td>Assignment 3 due.  Assignment 4: MNIST solution using linear solver.  Reading: Chollet, Chapter 4</td><td></td></tr>
-<tr><td>05/02</td><td>Neural Networks I: Theory, Multilayer Perceptron, and Examples</td><td></td><td></td></tr>
-<tr><td>05/07</td><td>Neural Networks II: Learning strategies for deep networks</td><td>Assignment 4 due.  Assignment 5: Solve MNIST with a deep convolutional network.  Reading: Chollet, Chapter 5</td><td></td></tr>
-<tr><td>05/09</td><td>Convolutional Networks I: Convolution, what's the point?  simple networks</td><td></td><td></td></tr>
+<tr><td>04/30</td><td>Linear Classification Learning again</td><td>Reading: Chollet, Chapter 4</td><td></td></tr>
+<tr><td>05/02</td><td>Neural Networks I: Theory, Multilayer Perceptron, and Examples</td><td>Assignment 3 due.  Assignment 4: MNIST solution using linear solver.  </td><td></td></tr>
+<tr><td>05/07</td><td>Neural Networks II: Learning strategies for deep networks</td><td>Reading: Chollet, Chapter 5</td><td></td></tr>
+<tr><td>05/09</td><td>Convolutional Networks I: Convolution, what's the point?  simple networks</td><td>Assignment 4 due.  Assignment 5: Solve MNIST with a deep convolutional network.  </td><td></td></tr>
 <tr><td>05/14</td><td>Convolutional Networks II: The power of learning convolutions.</td><td></td><td>Preliminary project report is due</td></tr>
 <tr><td>05/16</td><td>Convolutional Networks III: Transfer Learning</td><td>Assignment 5 due.  Assignment 6: Create the sentiment analyzer from Chollet, Chapter 6.1.  Reading: Chollet, Chapter 6</td><td></td></tr>
 <tr><td>05/21</td><td>Learning for time series analysis.  Recurrent Neural networks in theory.</td><td></td><td></td></tr>
