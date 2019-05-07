@@ -58,14 +58,14 @@ An approximate sequence of events for this course is outlined below:
 <tr><td>04/30</td><td>Linear Classification Learning again</td><td>Reading: Chollet, Chapter 4</td><td></td></tr>
 <tr><td>05/02</td><td>Neural Networks I: Theory, Multilayer Perceptron, and Examples</td><td>Assignment 3 due.  Assignment 4: MNIST solution using linear solver.  </td><td></td></tr>
 <tr><td>05/07</td><td>Neural Networks II: Learning strategies for deep networks</td><td>Reading: Chollet, Chapter 5</td><td></td></tr>
-<tr><td>05/09</td><td>Convolutional Networks I: Convolution, what's the point?  simple networks</td><td>Assignment 4 due.  Assignment 5: Solve MNIST with a deep convolutional network.  </td><td></td></tr>
-<tr><td>05/14</td><td>Convolutional Networks II: The power of learning convolutions.</td><td></td><td>Preliminary project report is due</td></tr>
-<tr><td>05/16</td><td>Convolutional Networks III: Transfer Learning</td><td>Assignment 5 due.  Assignment 6: Create the sentiment analyzer from Chollet, Chapter 6.1.  Reading: Chollet, Chapter 6</td><td></td></tr>
-<tr><td>05/21</td><td>Learning for time series analysis.  Recurrent Neural networks in theory.</td><td></td><td></td></tr>
-<tr><td>05/23</td><td>Recurrent Networks I: Basic construction</td><td>Assignment 6 due.  Assignment 7: Train a recurrent network to generate text output.</td><td></td></tr>
-<tr><td>05/28</td><td>Recurrent Networks II: Variations and examples</td><td></td><td></td></tr>
-<tr><td>05/30</td><td>Recurrent Networks III: Very Modern networks for Natural Language Tasks</td><td>Assignment 7 due.</td><td></td></tr>
-<tr><td>06/04</td><td>Recap.</td><td>Final Project Presentations</td><td></td></tr>
+<tr><td>05/09</td><td>Convolutional Networks I: Convolution, what's the point?  simple networks</td><td></td><td></td></tr>
+<tr><td>05/14</td><td>Convolutional Networks II: The power of learning convolutions.</td><td>Assignment 4 due.  Assignment 5: Solve MNIST with a deep convolutional network.  </td><td>Preliminary project report is due</td></tr>
+<tr><td>05/16</td><td>Convolutional Networks III: Transfer Learning</td><td>Reading: Chollet, Chapter 6</td><td></td></tr>
+<tr><td>05/21</td><td>Learning for time series analysis.  Recurrent Neural networks in theory.</td><td>Assignment 5 due.  Assignment 6: Create the sentiment analyzer from Chollet, Chapter 6.1.  </td><td></td></tr>
+<tr><td>05/23</td><td>Recurrent Networks I: Basic construction</td><td></td><td></td></tr>
+<tr><td>05/28</td><td>Recurrent Networks II: Variations and examples</td><td>Assignment 6 due.  Assignment 7: Train a recurrent network to generate text output.</td><td></td></tr>
+<tr><td>05/30</td><td>Recurrent Networks III: Very Modern networks for Natural Language Tasks</td><td></td><td></td></tr>
+<tr><td>06/04</td><td>Recap.</td><td>Final Project Presentations. Assignment 7 due.</td><td></td></tr>
 <tr><td>06/06</td><td>Recap.</td><td>Final Project Presentations</td><td></td></tr>
 
 </table>
