@@ -15,21 +15,13 @@ Once these initial steps are complete, you can start creating the deliverables o
 
 ### Deliverables:
 
-* A project proposal containing (Due: week 6)
+* A project proposal containing (Due: week 7)
   * Description of the project
   * Description of the data source
   * Related work
   * Initial ideas/methodologies for solution
   * Proposed milestones 
   * References 
-  
-* Project progress containing (Due: Week 8)
-  * Introduction of the project
-  * Literature review
-  * Proposed solution
-  * Current progress
-  * Future work
-  * References
   
 * Presentation of the final project containing (Due: Week 11).
   * Introduction of the project
@@ -38,6 +30,7 @@ Once these initial steps are complete, you can start creating the deliverables o
   * Results
   * Conclusions and future work
   * References
+  
 * A comprehensive project report that includes (Due: June 14, last day of Finals week):
   * Introduction: the description of the problem you are addressing, overview of your approach, and so on;
   * Related Work and Background: a literature review of previous work in this area;
